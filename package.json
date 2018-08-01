@@ -1,6 +1,6 @@
 {
   "name": "@pelevesque/substitute-chars",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Substitutes chars in a string.",
   "main": "index.js",
   "engines": {
