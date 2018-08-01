@@ -14,7 +14,12 @@
     "type": "git",
     "url": "git+https://github.com/pelevesque/substitute-chars.git"
   },
-  "keywords": [],
+  "keywords": [
+    "substitute",
+    "chars",
+    "characters",
+    "string"
+  ],
   "author": "Pierre-Emmanuel Lévesque <pierre.e.levesque@gmail.com>",
   "license": "MIT",
   "bugs": {
