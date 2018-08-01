@@ -5,7 +5,7 @@ const insertString = require('@pelevesque/insert-string')
 
 function findSubstitutionIndexes (str, substitutions) {
   for (let i = 0, len = substitutions.length; i < len; i++) {
-    substitutions[i][0] = findChar(substitutions[i][0], str)
+    substitutions[i][0] = findChar(str, substitutions[i][0])
   }
 }
 
