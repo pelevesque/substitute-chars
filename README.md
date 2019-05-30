@@ -8,7 +8,7 @@ Substitutes chars in a string.
 
 ## Node Repository
 
-[https://www.npmjs.com/package/@pelevesque/substitute-chars](https://www.npmjs.com/package/@pelevesque/substitute-chars)
+https://www.npmjs.com/package/@pelevesque/substitute-chars
 
 ## Installation
 
